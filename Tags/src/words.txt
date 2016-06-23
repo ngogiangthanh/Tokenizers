@@ -1,0 +1,8 @@
+﻿GIA ĐÌNH_gia đình,hôn nhân,tình dục,ngoại tình,vô sinh,hiếm muộn,người thứ ba,cướp chồng,đánh ghen,em bé,cô đơn,vô cảm,khóc,nước mắt,chia tay,tan vỡ,người yêu cũ,người yêu mới,người ấy,cuộc sống,tâm lí,đàn ông,tâm sự,mang bầu,bà mẹ,dạy con,mang thai,
+LÀM ĐẸP_làm đẹp,ngừa mụn,mụn đầu đen,gợi cảm,sexy,trang điểm,sức khỏe,chăm sóc tóc,chăm sóc da,dễ thương,người đẹp
+CUỘC SỐNG_cuộc sống,ngoại tình,vô sinh,hiếm muộn,em bé,tuổi thơ,sức khỏe,dễ thương,vô cảm,nhục nhã,tâm lí,tâm sự,trường học,nhà đất
+TÌNH YÊU_tình yêu,tình dục,ngoại tình,hiếm muộn,người thứ ba,cướp chồng,đánh ghen,em bé,tuổi thơ,dễ thương,cô đơn,nhục nhã,khóc,nước mắt,chia tay,tan vỡ,người yêu cũ,người yêu mới,người ấy,cuộc sống,tâm lí,đàn ông,tâm sự,mang bầu,mang thai,hạnh phúc
+THỂ THAO_thể thao,hài hước,đàn ông,cầu thủ,trọng tài
+GIẢI TRÍ_giải trí,diễn viên,ca sĩ,gợi cảm,sexy,phim ảnh,hài hước,nước mắt,cuộc sống,đàn ông,scandal
+MẸO NẤU ĂN_mẹo nấu ăn,nấu ăn,sức khỏe,đàn ông,nấu ăn ngon,đảm đang
+VẤN ĐỀ XÃ HỘI_vấn đề xã hội,tình dục,thời cuộc,ngoại tình,vô sinh,hiếm muộn,vô cảm,nhục nhã,thảm khốc,thời sự,ngoại giao,pháp luật,chính trị,cuộc sống,tâm lí,trường học,nhà đất

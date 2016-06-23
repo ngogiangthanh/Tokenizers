@@ -1,0 +1,4 @@
+"Advanced dynamic-system simulation :"
+"Model-replication techniques and Monte Carlo simulation"
+"This book introduce about Models that involve sampled-data operations and sampled-data difference equations, including improved techniques for proper numerical integration of switched variables. Novel vector compiler that produces exceptionally fast programs for vector and matrix assignments, differential equations, and difference equations. Application of vector compiler to parameter-influence studies and Monte Carlo simulation of dynamic systems. Vectorized Monte Carlo simulations involving time-varying noise, derived from periodic pseudorandom-noise samples. Vector models of neural networks, including a new pulsed-neuron model. Vectorized programs for fuzzy-set controller, partial differential equations, and agro-ecological models replicated at many points of a landscape map."
+" Các hệ thống liên quan"
